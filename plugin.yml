@@ -1,0 +1,8 @@
+name: RankSystem
+main: me.ranksystem.Core.Main
+version: 1.8
+author: Snapje
+descripition: Rank system like invadedlands.
+commands:
+  rank:
+    description: test command.

@@ -1,0 +1,9 @@
+Prefix: '&8{&eGranks&8} &7'
+
+Settings:
+  chat-enabled: true
+  chat-format: '%player%&7: %message%'
+  GUI:
+    enabled: true
+    name: '&7All the ranks'
+    

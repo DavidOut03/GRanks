@@ -1,0 +1,7 @@
+name: GRanks
+main: me.ranksystem.Core.Main
+version: dev
+author: Snapje
+commands:
+  rank:
+    description: The main plugin command.
